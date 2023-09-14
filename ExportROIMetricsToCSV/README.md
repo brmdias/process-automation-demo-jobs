@@ -11,8 +11,8 @@ Job definition is available [here](Export_ROI_metrics_to_CSV.yaml)
 **CSV File Path**: Destination for the CSV file generated from the job. Needs to be full file path, including file name.
 
 # Example
-Example job with ROI data:
-<img width="1263" alt="Pasted image 20230914152650" src="https://github.com/brmdias/process-automation-demo-jobs/assets/100204121/727addcf-4805-4cc5-b92e-de01f92a59ae">
+## Example job with ROI data:
+<img width="1263" alt="Pasted image 20230914152650" src="https://github.com/brmdias/process-automation-demo-jobs/assets/100204121/df81d112-c9c1-4e9b-9d4e-b012f5f7223b">
 
-Example from CSV file generated from this job:
-<img width="867" alt="Pasted image 20230914153015" src="https://github.com/brmdias/process-automation-demo-jobs/assets/100204121/28a712f2-989d-45e7-8f0d-8332ee92595f">
+## Example from CSV file generated from this job:
+<img width="867" alt="Pasted image 20230914153015" src="https://github.com/brmdias/process-automation-demo-jobs/assets/100204121/0fa98c65-e28a-46fd-9787-f026aa4afd91">
