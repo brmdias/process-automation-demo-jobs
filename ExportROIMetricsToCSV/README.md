@@ -1,4 +1,4 @@
-Job definition: TBD
+Job definition [here](Export_ROI_metrics_to_CSV.yaml)
 
 # Job options
 **PAOP Host IP**: IP Address/Hostname for the PAoP hosting the ROI Metrics.
@@ -8,7 +8,7 @@ Job definition: TBD
 
 # Example
 Example job with ROI data:
-![[Pasted image 20230914152650.png]]
+<img width="1263" alt="Pasted image 20230914152650" src="https://github.com/brmdias/process-automation-demo-jobs/assets/100204121/727addcf-4805-4cc5-b92e-de01f92a59ae">
 
 Example from CSV file generated from this job:
-![[Pasted image 20230914153015.png]]
+<img width="867" alt="Pasted image 20230914153015" src="https://github.com/brmdias/process-automation-demo-jobs/assets/100204121/28a712f2-989d-45e7-8f0d-8332ee92595f">
