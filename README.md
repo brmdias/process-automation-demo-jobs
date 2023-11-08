@@ -3,3 +3,4 @@ This repo contains example of a job definitions to demostrate how to get the mos
 
  - [Global variables](GlobalVariables)
  - [Export ROI metrics to CSV](ExportROIMetricsToCSV)
+ - [Node Credentials Override](NodeCredentialsOverride)
